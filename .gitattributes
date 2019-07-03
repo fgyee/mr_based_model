@@ -1,1 +1,2 @@
 .hdf5 filter=lfs diff=lfs merge=lfs -text
+E:/store/mr_based_model/liver.hdf5 filter=lfs diff=lfs merge=lfs -text
